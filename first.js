@@ -1,3 +1,4 @@
+//Let's Start Code
 let userScore = 0;
 let compScore = 0;
 
